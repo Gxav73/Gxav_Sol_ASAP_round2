@@ -6,19 +6,19 @@ Gxav_Sol_ASAP_round2
 3.	Store external data files, training set and test set files in a directory 
 4.	Select as a R working directory the directory where the files were stored
 5.	Ensure all packages are installed
-a.	SOAR # to manage memory usage
-b.	Hmisc and MASS # for descriptive analysis
-c.	Matrix # to handle matrix  
-d.	RTextTools # to stem words
-e.	tau # to produce n-grams
-f.	tm # to remove duplicated blanks and punctuation marks
-g.	clim.pact # to convert to lower case
-h.	glmnet # to train a generalized linear model via penalized maximum likelihood
-i.	glmnetcr # to train a multinomial generalized linear model via penalized maximum likelihood
-j.	e1071 # to train Support Vector Machine
-k.	gbm # to train Gradient Boosting Machine 
-l.	randomForest # to train Random Forest
-m.	mgcv # to train Generalized Additive Models
+5a.	SOAR # to manage memory usage
+5b.	Hmisc and MASS # for descriptive analysis
+5c.	Matrix # to handle matrix  
+5d.	RTextTools # to stem words
+5e.	tau # to produce n-grams
+5f.	tm # to remove duplicated blanks and punctuation marks
+5g.	clim.pact # to convert to lower case
+5h.	glmnet # to train a generalized linear model via penalized maximum likelihood
+5i.	glmnetcr # to train a multinomial generalized linear model via penalized maximum likelihood
+5j.	e1071 # to train Support Vector Machine
+5k.	gbm # to train Gradient Boosting Machine 
+5l.	randomForest # to train Random Forest
+5m.	mgcv # to train Generalized Additive Models
 6.	Execute Gxav TRAINING CODE.R
 7.	Execute Gxav TEST CODE.R
 8.	1 csv file should be generated “Gxav_Sol.csv” equal to the solution selected for the private leaderboard of the competition
