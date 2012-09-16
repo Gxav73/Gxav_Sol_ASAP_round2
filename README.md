@@ -1,6 +1,7 @@
 Gxav_Sol_ASAP_round2
 ====================
 
+0.  Unzip "Short_Answer_Gxav.zip". Read "Gxav Description.docx" to get familiar with the approach
 1.  Install R 2.15.1 (2012-06-22) -- "Roasted Marshmallows". Note previous versions could produce slightly different results because of some changes in the mgcv package
 2.	Open R
 3.	Store external data files, training set and test set files in a directory 
